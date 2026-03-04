@@ -573,7 +573,7 @@
     "jlpt": "N5",
     "id": 64,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "会議は予定より早く終わりました。",
@@ -582,7 +582,7 @@
     "jlpt": "N4",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "もし時間があれば、一緒に復習しませんか。",
@@ -590,7 +590,7 @@
     "english": "If you have time, would you like to review together?",
     "jlpt": "N3",
     "id": 66,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
