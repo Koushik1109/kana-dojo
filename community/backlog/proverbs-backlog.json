@@ -882,7 +882,7 @@
     "romaji": "Tana kara botamochi",
     "english": "A rice cake falls from the shelf",
     "meaning": "Unexpected good luck",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -901,7 +901,7 @@
     "english": "Dumplings over flowers",
     "meaning": "Practicality over appearance",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 101,
