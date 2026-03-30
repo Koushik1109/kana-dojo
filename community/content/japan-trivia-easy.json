@@ -502,14 +502,15 @@
     "Shodo"
   ],
   "correctIndex": 0
-},{
-  "question": "Which Japanese castle is nicknamed the \"White Heron\" for its bright exterior? (Community variation 9)",
+},
+  {
+  "question": "What is the Japanese word for "goodbye"? (Community variation 32)",
   "difficulty": "easy",
   "answers": [
-    "Himeji Castle",
-    "Osaka Castle",
-    "Matsumoto Castle",
-    "Nijo Castle"
+    "Sayonara",
+    "Konnichiwa",
+    "Arigatou",
+    "Oyasumi"
   ],
   "correctIndex": 0
 }
